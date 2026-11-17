@@ -36,11 +36,9 @@ spreadsheet with a logo on top.
 
 ## Screenshot
 
-<!-- SCREENSHOT PLACEHOLDER — add the rendered template screenshot here before submitting. -->
-<!-- To capture it: open output/digest.html in a browser at 600px width and screenshot the full email. -->
-<!-- Suggested file: screenshot.png in this directory, then replace this line with: ![The Ledger — Weekly Crypto Portfolio Digest](screenshot.png) -->
+![The Ledger — Weekly Crypto Portfolio Digest, rendered in full](assets/screenshot.png)
 
-*[Screenshot to be added — see the comment above.]*
+*Full-page render of `output/digest.html` at 600px width: masthead, portfolio summary, holdings table, allocation bars, movers, analyst note, market snapshot and footer.*
 
 ## How Hyper Elements is used
 
@@ -143,8 +141,7 @@ renders by default.
 - [x] Template built with Hyper Elements (`@hyper-elements/react` 0.4.6)
 - [x] Public GitHub repository with this source + README
 - [x] README explains Hyper Elements usage, includes run instructions
-- [ ] Screenshot/GIF of the rendered template *(add before submitting — see
-      the Screenshot section above)*
+- [x] Screenshot/GIF of the rendered template *(full-page render in `assets/screenshot.png`)*
 - [ ] Star the `hyper-elements/hyper-elements` repository
 - [ ] Submit via the "Challenge Submissions" form on GitHub Discussions
       (deadline: 29 November 2026, 23:59 UTC)
