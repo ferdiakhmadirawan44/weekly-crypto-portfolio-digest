@@ -227,7 +227,7 @@ function Digest({ data = defaultData }: DigestProps) {
           </Row>
           <Table
             style={{
-              cellPadding: [10, 12],
+              cellPadding: [10, 8],
               rowBorder: { width: 1, style: "solid", color: C.border },
             }}
           >
