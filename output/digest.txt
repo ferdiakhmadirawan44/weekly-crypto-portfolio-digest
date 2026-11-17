@@ -1,0 +1,181 @@
+[The Ledger]
+
+THE LEDGER
+
+Your weekly crypto portfolio digest
+
+---
+
+Issue #47 · Week 46 · 10–16 November 2026
+
+Sunday edition
+
+Week 46 · 10–16 November 2026
+
+GOOD MORNING, {{first_name}}
+
+Your portfolio gained +$1,942.10 (+4.19%) this week. Bitcoin did the heavy lifting — Solana did the celebrating.
+
+---
+
+Total value
+
+$48,290.15
+
++$1,942.10 this week
+
+Last 24 hours
+
++1.24%
+
++$591.30 today
+
+Last 7 days
+
++4.19%
+
+Market +2.1%
+
+YOUR HOLDINGS
+
+6 assets · 16 Nov, 09:00 UTC
+
+Asset | Price | 24h | Value | Share
+BTC
+Bitcoin | $98,240.00 | ▲ +2.31% | $20,415.60 | 42.3%
+ETH
+Ethereum | $3,412.80 | ▲ +1.08% | $11,286.40 | 23.4%
+SOL
+Solana | $214.60 | ▲ +6.84% | $7,724.80 | 16.0%
+LINK
+Chainlink | $24.18 | ▼ -1.42% | $3,864.20 | 8.0%
+ARB
+Arbitrum | $0.8421 | ▼ -3.15% | $2,898.55 | 6.0%
+USDC
+USD Coin | $1.00 | 0.00% | $2,100.60 | 4.3%
+
+Stablecoins (USDC) are held at $1.00. Prices are sample data as of 16 November 2026, 09:00 UTC.
+
+WHERE YOUR MONEY SITS
+
+Bitcoin still runs the show — just over two-fifths of the portfolio. Solana is the only holding that grew its slice this week.
+
+BTC
+
+Bitcoin
+
+42.3%
+
+ETH
+
+Ethereum
+
+23.4%
+
+SOL
+
+Solana
+
+16.0%
+
+LINK
+
+Chainlink
+
+8.0%
+
+ARB
+
+Arbitrum
+
+6.0%
+
+USDC
+
+USD Coin
+
+4.3%
+
+▲ Biggest gainer
+
+SOLANA · SOL
+
++18.4%
+
+ETF inflows and a record week for on-chain activity pushed SOL to its highest close since March.
+
+Week range $181.20 – $219.40 · Now $214.60
+
+▼ Biggest loser
+
+ARBITRUM · ARB
+
+-6.2%
+
+Profit-taking after the gaming incentive vote stalled; ARB gave back last week's gains and slipped under $0.85.
+
+Week range $0.81 – $0.93 · Now $0.8421
+
+Analyst note
+
+THE WEEK IN ONE PARAGRAPH
+
+Bitcoin reclaimed $98,000 and held it, and that set the tone for everything else. Ethereum quietly kept paying its stakers while Solana stole the show on ETF flows, and the only red ink in your portfolio came from Arbitrum — small, and small enough to ignore. Nothing in this week's tape says “sell”. The tape says “stay seated”.
+
+---
+
+Three things to watch next week
+
+1. FOMC minutes land Wednesday — rate-cut odds will move BTC first.
+2. The Solana ETF decision window opens Friday; a delay would cool SOL fast.
+3. Ethereum's next upgrade hits testnet — watch validator chatter, not price.
+
+Market snapshot · 16 November 2026
+
+Total market cap
+
+$3.42T
+
+▲ 2.1% this week
+
+BTC dominance
+
+58.4%
+
+▲ 0.6 pts
+
+Fear & Greed
+
+72 · Greed
+
+Up from 61 (Greed)
+
+ETH gas
+
+12 Gwei
+
+▼ Low — cheap to move
+
+SEE THE FULL PICTURE
+
+Open your portfolio to drill into every trade, transfer and token — live prices, cost basis and tax lots included.
+
+View your full portfolio (https://example.com/portfolio)
+
+Manage your digest preferences (https://example.com/preferences)
+
+---
+
+View in browser (https://example.com/digest/47) · Preferences (https://example.com/preferences) · Unsubscribe (https://example.com/unsubscribe)
+
+[X] (https://x.com/example)
+
+[Discord] (https://discord.gg/example)
+
+[Telegram] (https://t.me/example)
+
+The Ledger is a weekly digest from Example Finance. You are receiving this because you subscribed to weekly portfolio updates.
+
+All figures in this email are SAMPLE DATA for demonstration purposes only — not financial advice, and not your real portfolio. Prices as of 16 November 2026, 09:00 UTC.
+
+Example Finance · 1 Market Street, San Francisco, CA 94105
